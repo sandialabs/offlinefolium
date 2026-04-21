@@ -2,8 +2,6 @@
 offlinefolium
 =============
 
-|offlinefolium|
-
 Offline Leaflet.js Maps
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
