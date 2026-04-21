@@ -1,0 +1,15 @@
+0.20.0.0
+~~~~~~~~
+- Initial open source release.
+    
+0.17.0.0
+~~~~~~~~
+- New plugins: encoded.py, realtime.py, timeline.py, treelayercontrol.py
+
+0.15.0.0
+~~~~~~~~
+- Encorporated changes from folium upgrade. No new plugins.
+
+0.14.0.0
+~~~~~~~~
+- All plugins (that can operate with only embedded resources) now function in offlinefolium
