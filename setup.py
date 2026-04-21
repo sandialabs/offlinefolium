@@ -50,7 +50,7 @@ setup(
     long_description_content_type="text/x-rst",
     author="Sandia National Laboratories",
     author_email="bdnewto@sandia.gov",
-    url="https://github.com/python-visualization/folium",
+    url="https://github.com/sandialabs/offlinefolium",
     keywords="data visualization",
     classifiers=[
         "Programming Language :: Python :: 3.9",
