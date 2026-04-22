@@ -43,7 +43,7 @@ with open("requirements.txt") as f:
 install_requires = [t.strip() for t in tests_require]
 
 setup(
-    name="offlinefolium",
+    name="folium_offline",
     description="Offline version of folium with web resources embedded. All credit lies with Rob Story, creator of folium.",
     license="MIT",
     long_description="{}".format(read("README.rst")),
