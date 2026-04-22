@@ -14,6 +14,6 @@ Installation
 
 .. code:: bash
 
-    $ pip install offlinefolium
+    $ pip install folium-offline
 
 Functionality should be consistent with folium.  See Folium's documentation for syntax, and examples.  
